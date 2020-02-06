@@ -1,0 +1,4 @@
+El patrón facade
+oculta los detalles
+de la implementación de un subsistema
+o submódulo
